@@ -1,6 +1,6 @@
 import axios from "axios";
 // api restriction added
-const KEY = "AIzaSyAn-mXeSkavjZQvtBVHJY74WlMWpvSCGD0";
+const KEY = "";
 
 export default axios.create({
   // base url and default parameters
