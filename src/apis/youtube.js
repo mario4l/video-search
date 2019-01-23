@@ -1,6 +1,6 @@
 import axios from "axios";
-// api restriction added
-const KEY = "";
+// api restriction - accepts requests from HTTP referres - localhost:3000
+const KEY = "AIzaSyAn-mXeSkavjZQvtBVHJY74WlMWpvSCGD0";
 
 export default axios.create({
   // base url and default parameters
